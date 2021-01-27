@@ -39,7 +39,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  last_array=["asdf","asdfadf","sdafaf","asdf","totally"]
+  last_array=["asdf","asdfadf","sdafaf","asdf","arrays!"]
   last_array[4]
 end
 
