@@ -18,7 +18,9 @@ hi_array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  
+end_array=["henlo","hihihihi","arrays!"]
+arrays_array=end_array.pop
+
 end
 
 def remove_element_from_start_of_array(array)
